@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\bin\Debug\net6.0\Example028.exe
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\bin\Debug\net6.0\Example028.deps.json
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\bin\Debug\net6.0\Example028.runtimeconfig.json
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\bin\Debug\net6.0\Example028.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\bin\Debug\net6.0\Example028.pdb
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\Example028.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\Example028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\Example028.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\Example028.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\Example028.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\Example028.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\refint\Example028.dll
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\Example028.pdb
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\Example028.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Гигобуч\C#\Семинар004\Example028\obj\Debug\net6.0\ref\Example028.dll
